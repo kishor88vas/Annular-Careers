@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "middleName": "Doe",
+      "lastName": "Smith",
+      "phoneNo": "1234567890",
+      "email": "john@example.com",
+      "educationalQual": "Bachelor's Degree",
+      "experience": "2",
+      "position": "Java Developer",
+      "cctc": "50000",
+      "ectc": "60000",
+      "passout": "2018",
+      "noticePeriod": "1",
+      "keySkills": "Some description",
+      "resume": "resume.pdf"
+    }
+  ]
+}
