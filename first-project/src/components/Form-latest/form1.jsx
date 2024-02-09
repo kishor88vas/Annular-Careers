@@ -104,7 +104,7 @@ const MyForm1 = () => {
 
       // Make an API request using Axios
       const response = await axios.post(
-        "http://localhost:1000/api/candidates/savecandidate",
+        "http://13.233.141.139:8080/AnnularCareers-0.0.1-SNAPSHOT/api/candidates/savecandidate",
         formData
       );
       //{
